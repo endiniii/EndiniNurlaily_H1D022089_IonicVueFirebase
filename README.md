@@ -39,7 +39,7 @@
 # 8. Gambar Tampilan Action data
 - Halaman ini merupakan halaman yang menampilkan andaikata data to do list kita geser ke kiri
 - Pada halaman ini data yang kita geser ke kiri dapat kita beri aksi yaitu edit dan selesai
-![Tampilan add_todo](https://raw.githubusercontent.com/endiniii/EndiniNurlaily_H1D022089_IonicVueFirebase/master/edit_todo.png)
+![Tampilan add_todo](https://raw.githubusercontent.com/endiniii/EndiniNurlaily_H1D022089_IonicVueFirebase/master/pilihan.png)
 
 # 9. Gambar Tampilan edit todo list
 - Halaman ini merupakan halaman yang muncul andaikata kita menggeser data yang akan kita edit ke arah kiri dan mengklik tombol bewarna biru
