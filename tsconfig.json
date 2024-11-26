@@ -1,21 +1,29 @@
 {
   "compilerOptions": {
-    "target": "ESNext",
-    "useDefineForClassFields": true,
-    "module": "ESNext",
-    "moduleResolution": "Node",
-    "strict": true,
-    "jsx": "preserve",
-    "resolveJsonModule": true,
-    "isolatedModules": true,
-    "esModuleInterop": true,
-    "lib": ["ESNext", "DOM"],
-    "skipLibCheck": true,
-    "noEmit": true,
+    "target": "ESNext", // Use the latest JavaScript features
+    "module": "ESNext", // Suitable for modern JavaScript module systems
+    "moduleResolution": "Node", // Resolve modules like Node.js
+    "strict": true, // Enable strict type checking
+    "jsx": "preserve", // Preserve JSX syntax for Vue files
+    "resolveJsonModule": true, // Allow importing JSON files
+    "isolatedModules": true, // Ensure that each file is treated as a separate module
+    "esModuleInterop": true, // Enable interoperability with CommonJS
+    "lib": ["ESNext", "DOM"], // Include modern JavaScript and browser DOM APIs
+    "skipLibCheck": true, // Skip type checks for libraries for performance
+    "noEmit": true, // Do not emit compiled files
     "paths": {
-      "@/*": ["./src/*"]
+      "@/*": ["./src/*"] // Shortcut for importing from `src/`
     }
   },
-  "include": ["src/**/*.ts", "src/**/*.d.ts", "src/**/*.tsx", "src/**/*.vue"],
-  "references": [{ "path": "./tsconfig.node.json" }]
+  "include": [
+    "src/**/*.ts", // Include TypeScript files
+    "src/**/*.d.ts", // Include TypeScript definition files
+    "src/**/*.tsx", // Include TypeScript files with JSX
+    "src/**/*.vue" // Include Vue files
+  ],
+  "references": [
+    {
+      "path": "./tsconfig.node.json" // Reference for Node-specific settings
+    }
+  ]
 }
