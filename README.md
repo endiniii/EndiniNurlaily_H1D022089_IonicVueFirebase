@@ -44,7 +44,7 @@
 # 9. Gambar Tampilan edit todo list
 - Halaman ini merupakan halaman yang muncul andaikata kita menggeser data yang akan kita edit ke arah kiri dan mengklik tombol bewarna biru
 - Pada halaman ini kita bisa menginputkan data terbaru (edit) yang nantinya akan ditampilkan pada halaman home page to do list
-![Tampilan add_todo](https://raw.githubusercontent.com/endiniii/EndiniNurlaily_H1D022089_IonicVueFirebase/master/edit_todo.png)
+![Tampilan edit todo](https://raw.githubusercontent.com/endiniii/EndiniNurlaily_H1D022089_IonicVueFirebase/master/edit_todo.png)
 
 # 10. Gambar Tampilan edit todo list
 - Halaman ini merupakan halaman yang muncul andaikata kita menggeser klik pilihan bewarna hijau yang artinya to do list sudah terlaksana
