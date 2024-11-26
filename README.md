@@ -49,7 +49,9 @@
 # 10. Gambar Tampilan hapus to do list
 - Halaman ini merupakan halaman yang muncul andaikata kita menggeser data ke kanan dan ada pilihan bewarna merah yang berfungsi untuk menghapus data
 - setelah tombol merah di klik makka data akan terhapus dan ada pembeitahuan bewarna hijau pada bagian atas halaman bahwa data berhasil di hapus
-![Tampilan hapus todo](https://raw.githubusercontent.com/endiniii/EndiniNurlaily_H1D022089_IonicVueFirebase/master/sukses_hapus.png)
+![Tampilan hapus todo](https://raw.githubusercontent.com/endiniii/EndiniNurlaily_H1D022089_IonicVueFirebase/master/hapus_data.png)
+
+![Tampilan sukses hapus](https://raw.githubusercontent.com/endiniii/EndiniNurlaily_H1D022089_IonicVueFirebase/master/sukses_hapus.png)
 
 
 
