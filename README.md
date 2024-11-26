@@ -31,24 +31,27 @@
 - Pada halaman ini kita bisa menginputkan data yang nantinya akan ditampilkan pada halaman home page to do list
 ![Tampilan add_todo](https://raw.githubusercontent.com/endiniii/EndiniNurlaily_H1D022089_IonicVueFirebase/master/add_todo.png)
 
-# 7. Gambar Tampilan edit todo list
-- Halaman ini merupakan halaman yang muncul andaikata kita menggeser data yang akan kita edit ke arah kiri dan mengklik tombol bewarna biru
-- Pada halaman ini kita bisa menginputkan data terbaru (edit) yang nantinya akan ditampilkan pada halaman home page to do list
-![Tampilan action kiri](https://raw.githubusercontent.com/endiniii/EndiniNurlaily_H1D022089_IonicVueFirebase/master/pilihan.png)
-
-# 8. Gambar Tampilan Action data
+# 7. Gambar Tampilan Action data
 - Halaman ini merupakan halaman yang menampilkan andaikata data to do list kita geser ke kiri
 - Pada halaman ini data yang kita geser ke kiri dapat kita beri aksi yaitu edit dan selesai
 ![Tampilan add_todo](https://raw.githubusercontent.com/endiniii/EndiniNurlaily_H1D022089_IonicVueFirebase/master/pilihan.png)
 
-# 9. Gambar Tampilan edit todo list
+# 8. Gambar Tampilan edit todo list
 - Halaman ini merupakan halaman yang muncul andaikata kita menggeser data yang akan kita edit ke arah kiri dan mengklik tombol bewarna biru
 - Pada halaman ini kita bisa menginputkan data terbaru (edit) yang nantinya akan ditampilkan pada halaman home page to do list
 ![Tampilan edit todo](https://raw.githubusercontent.com/endiniii/EndiniNurlaily_H1D022089_IonicVueFirebase/master/edit_todo.png)
 
-# 10. Gambar Tampilan edit todo list
-- Halaman ini merupakan halaman yang muncul andaikata kita menggeser klik pilihan bewarna hijau yang artinya to do list sudah terlaksana
+# 9. Gambar Tampilan to do list terlaksanan
+- Halaman ini merupakan halaman yang muncul andaikata kita menggeser ke kiri dan klik pilihan bewarna hijau yang artinya to do list sudah terlaksana
 - Pada halaman ini ajan ada pemebritahuan bewarna hijau pada pabian atas bahwa to do list sudah terlaksana
 ![Tampilan terlaksana](https://raw.githubusercontent.com/endiniii/EndiniNurlaily_H1D022089_IonicVueFirebase/master/terlaksana.png)
+
+# 10. Gambar Tampilan hapus to do list
+- Halaman ini merupakan halaman yang muncul andaikata kita menggeser data ke kanan dan ada pilihan bewarna merah yang berfungsi untuk menghapus data
+- setelah tombol merah di klik makka data akan terhapus dan ada pembeitahuan bewarna hijau pada bagian atas halaman bahwa data berhasil di hapus
+![Tampilan hapus todo](https://raw.githubusercontent.com/endiniii/EndiniNurlaily_H1D022089_IonicVueFirebase/master/sukses_hapus.png)
+
+
+
 
 
