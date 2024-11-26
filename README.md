@@ -20,3 +20,6 @@
 - Pada halaman ini menampilkan detail akun yang digunakan untuk login seperti nama dan email serta ada gambar akun tersebut
 - Dan pada bagian pojok kanan ada tombol "LOGOUT" yang jika di klik akan tertuju ke luar yaitu ke halaman awal sebelum login
 ![Tampilan pilihakun](https://raw.githubusercontent.com/endiniii/EndiniNurlaily_H1D022089_IonicVueFirebase/main/profilepage.png)
+
+
+Mas asprak...yg lengkap ada di branch 'master ya mas'....
