@@ -24,4 +24,4 @@
 #5. Gambar Tampilan home page berisi todo list
 - Halaman ini merupakan halaman utama yang menampilkan to do list pengguna
 - Pada halaman ini terdapat tombo (+) untuk menambah data to do yang terletak di bawah pojok kanan
-![Tampilan hompage](https://raw.githubusercontent.com/endiniii/EndiniNurlaily_H1D022089_IonicVueFirebase/main/tombol.png)
+![Tampilan hompage](https://raw.githubusercontent.com/endiniii/EndiniNurlaily_H1D022089_IonicVueFirebase/master/tombol.png)
